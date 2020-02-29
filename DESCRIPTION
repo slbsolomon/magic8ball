@@ -1,0 +1,15 @@
+Package: magic8ball
+Title: A magic way to get answers to your yes/no questions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Samantha",
+           family = "Solomon",
+           email = "slbsolomon@gmail.com",
+           role = c("aut", "cre"))
+Description: Do you hate making decisions?? Are your friends sick of hearing you respond "doesn't matter" when they ask you questions? Then this is the package for you! It is a totally free version of the beloved toy and will instantly give you an answer to all of the yes/no questions in your life.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Suggests: 
+    testthat (>= 2.1.0)
